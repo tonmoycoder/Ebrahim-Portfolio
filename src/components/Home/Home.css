@@ -122,6 +122,102 @@
     margin-left: 0.4rem;
 }
 
+.home__title:hover .home__hand {
+    animation: hello__there .6s cubic-bezier(.48, .01, .46, .99) infinite;
+    -webkit-animation: hello__there .6s cubic-bezier(.48, .01, .46, .99) infinite;
+    transform-origin: center bottom;
+}
+
+@keyframes hello__there {
+    0% {
+        -moz-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
+}
+
+    10% {
+        -moz-transform: rotate(3deg);
+        -webkit-transform: rotate(3deg);
+        -o-transform: rotate(3deg);
+        -ms-transform: rotate(3deg);
+        transform: rotate(3deg);
+}
+
+    20% {
+        -moz-transform: rotate(6deg);
+        -webkit-transform: rotate(6deg);
+        -o-transform: rotate(6deg);
+        -ms-transform: rotate(6deg);
+        transform: rotate(6deg);
+}
+
+    30% {
+        -moz-transform: rotate(10deg);
+        -webkit-transform: rotate(10deg);
+        -o-transform: rotate(10deg);
+        -ms-transform: rotate(10deg);
+        transform: rotate(10deg);
+}
+
+    40% {
+        -moz-transform: rotate(6deg);
+        -webkit-transform: rotate(6deg);
+        -o-transform: rotate(6deg);
+        -ms-transform: rotate(6deg);
+        transform: rotate(6deg);
+}
+
+    50% {
+        -moz-transform: rotate(3deg);
+        -webkit-transform: rotate(3deg);
+        -o-transform: rotate(3deg);
+        -ms-transform: rotate(3deg);
+        transform: rotate(3deg);
+}
+
+    60% {
+        -moz-transform: rotate(-1deg);
+        -webkit-transform: rotate(-1deg);
+        -o-transform: rotate(-1deg);
+        -ms-transform: rotate(-1deg);
+        transform: rotate(-1deg);
+}
+70% {
+        -moz-transform: rotate(-3deg);
+        -webkit-transform: rotate(-3deg);
+        -o-transform: rotate(-3deg);
+        -ms-transform: rotate(-3deg);
+        transform: rotate(-3deg);
+}
+    80% {
+        -moz-transform: rotate(-6deg);
+        -webkit-transform: rotate(-6deg);
+        -o-transform: rotate(-6deg);
+        -ms-transform: rotate(-6deg);
+        transform: rotate(-6deg);
+}
+    90% {
+        -moz-transform: rotate(-10deg);
+        -webkit-transform: rotate(-10deg);
+        -o-transform: rotate(-10deg);
+        -ms-transform: rotate(-10deg);
+        transform: rotate(-10deg);
+}
+
+
+    
+
+    100% {
+        -moz-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
+}
+}
+
 .home__subtitle {
     position: relative;
     font-size: var(--h3-font-size);
