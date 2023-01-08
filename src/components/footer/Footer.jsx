@@ -10,7 +10,7 @@ const Footer = () => {
                 <ul className="footer__list">
                     <li><a href="#about" className="footer__link">About</a></li>
 
-                    <li><a href="#portfolio" className="footer__link">Projects</a></li>
+                    <li><a href="#portfolio" className="footer__link">Qualification</a></li>
 
                     <li><a href="#testimonials" className="footer__link">Testimonials</a></li>
                 </ul>
@@ -25,6 +25,15 @@ const Footer = () => {
                     </a>
                     <a href="https://www.linkedin.com/in/ebrahimmdkamalofficial/" className="footer__social-link" target="_blank" rel="noreferrer">
                         <i class="bx bxl-linkedin"></i>
+                    </a>
+                    <a href="https://api.whatsapp.com/send?phone=8801750062927&text=Hello, more information!" className="footer__social-link" target="_blank" rel="noreferrer">
+                        <i class='bx bxl-whatsapp' ></i>
+                    </a>
+                    <a href="https://join.skype.com/invite/vBc8vVipMD45" className="footer__social-link" target="_blank" rel="noreferrer">
+                    <i class='bx bxl-skype'></i>
+                    </a>
+                    <a href="https://controlc.com/a6a80b07" className="footer__social-link" target="_blank" rel="noreferrer">
+                        <i class='bx bx-conversation'></i>
                     </a>
                 </div>
 

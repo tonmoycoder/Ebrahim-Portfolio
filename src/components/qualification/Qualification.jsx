@@ -32,10 +32,10 @@ const Qualification = () => {
                     <div className={toggleState === 1 ? "qualification__content qualification__content-active" : "qualification__content"}>
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Web Design</h3>
-                                <span className="qualification__subtitle">Bangladesh - Institute</span>
+                                <h3 className="qualification__title"> Mass Communication and Journalism</h3>
+                                <span className="qualification__subtitle">Rajshahi University</span>
                                 <div className="qualification__calender">
-                                    <i className="uil  uil-calendar-alt"></i> 2021 - Present
+                                    <i className="uil  uil-calendar-alt"></i> Jan 2022 - 2023
                                 </div>
                             </div>
                             <div>
@@ -53,10 +53,10 @@ const Qualification = () => {
                             </div>
 
                             <div>
-                                <h3 className="qualification__title">Director</h3>
-                                <span className="qualification__subtitle">Bangladesh - Institute</span>
+                                <h3 className="qualification__title">Journalism Communication and Media Studies</h3>
+                                <span className="qualification__subtitle">Varendra University</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i> 2021 - Present
+                                    <i className="uil uil-calendar-alt"></i> Jan 2017 - Dec 2020
                                 </div>
                             </div>
 
@@ -64,10 +64,10 @@ const Qualification = () => {
 
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">UX Expert</h3>
-                                <span className="qualification__subtitle">Bangladesh - Institute</span>
+                                <h3 className="qualification__title">Humanities (H.S.C) </h3>
+                                <span className="qualification__subtitle">Agrani School And College, Rajshahi</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i> 2017 - 2018
+                                    <i className="uil uil-calendar-alt"></i> June 2012 - 2014
                                 </div>
                             </div>
                             <div>
@@ -76,47 +76,17 @@ const Qualification = () => {
                             </div>
                         </div>
 
-                        <div className="qualification__data">
-                            <div></div>
-
-                            <div>
-                                <span className="qualification__rounder"></span>
-                                <span className="qualification__line"></span>
-                            </div>
-
-                            <div>
-                                <h3 className="qualification__title">Director</h3>
-                                <span className="qualification__subtitle">Bangladesh - Institute</span>
-                                <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i> 2020 - 2021
-                                </div>
-                            </div>
-
-                        </div>
-
-                        <div className="qualification__data">
-                            <div>
-                                <h3 className="qualification__title">UX Expert</h3>
-                                <span className="qualification__subtitle">Bangladesh - Institute</span>
-                                <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i> 2017 - 2018
-                                </div>
-                            </div>
-                            <div>
-                                <span className="qualification__rounder"></span>
-                                <span className="qualification__line"></span>
-                            </div>
-                        </div>
+                        
                         
                     </div>
 
                     <div className={toggleState === 2 ? "qualification__content qualification__content-active" : "qualification__content"}>
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Product Design</h3>
-                                <span className="qualification__subtitle">Microsoft - US</span>
+                                <h3 className="qualification__title">E-Commerce Coordinator</h3>
+                                <span className="qualification__subtitle">Tech Rajshahi</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i> 2022 - Present
+                                    <i className="uil uil-calendar-alt"></i> April 2022 - Present
                                 </div>
                             </div>
                             <div>
@@ -134,10 +104,10 @@ const Qualification = () => {
                             </div>
 
                             <div>
-                                <h3 className="qualification__title">UX Designer</h3>
-                                <span className="qualification__subtitle">Apple Inc - Spain</span>
+                                <h3 className="qualification__title">Business Strategic Advisor</h3>
+                                <span className="qualification__subtitle">Drutota Delivery Service</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i> 2021 - Present
+                                    <i className="uil uil-calendar-alt"></i> May 2020 - Mar 2022
                                 </div>
                             </div>
 
@@ -145,10 +115,10 @@ const Qualification = () => {
 
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Web3 Developer</h3>
-                                <span className="qualification__subtitle">Figma - Spain</span>
+                                <h3 className="qualification__title">Sub Editor</h3>
+                                <span className="qualification__subtitle">Flash News 24</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i> 2017 - 2018
+                                    <i className="uil uil-calendar-alt"></i> Mar 2020 - Dec 2021
                                 </div>
                             </div>
                             <div>
@@ -157,6 +127,89 @@ const Qualification = () => {
                             </div>
                         </div>
 
+                        <div className="qualification__data">
+                            <div></div>
+
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
+                            </div>
+
+                            <div>
+                                <h3 className="qualification__title">Trainer / Facilitators</h3>
+                                <span className="qualification__subtitle">Dnet</span>
+                                <div className="qualification__calender">
+                                    <i className="uil uil-calendar-alt"></i> Mar 2019 - Mar 2020
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div className="qualification__data">
+                            <div>
+                                <h3 className="qualification__title">Information And Technology Department Head</h3>
+                                <span className="qualification__subtitle">North Bengal Online</span>
+                                <div className="qualification__calender">
+                                    <i className="uil uil-calendar-alt"></i> Mar 2018 - Mar 2019
+                                </div>
+                            </div>
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
+                            </div>
+                        </div>
+
+
+                        <div className="qualification__data">
+                            <div></div>
+
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
+                            </div>
+
+                            <div>
+                                <h3 className="qualification__title">System Engineer (Hardware And Software)</h3>
+                                <span className="qualification__subtitle">Computer Service Center</span>
+                                <div className="qualification__calender">
+                                    <i className="uil uil-calendar-alt"></i> Feb 2016 - Feb 2017
+                                </div>
+                            </div>
+
+                        </div>
+
+
+                        <div className="qualification__data">
+                            <div>
+                                <h3 className="qualification__title">System Engineer (Hardware And Software)</h3>
+                                <span className="qualification__subtitle">SR Computer Showroom</span>
+                                <div className="qualification__calender">
+                                    <i className="uil uil-calendar-alt"></i> Jan 2015 - Jan 2016
+                                </div>
+                            </div>
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
+                            </div>
+                        </div>
+
+                        <div className="qualification__data">
+                            <div></div>
+
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
+                            </div>
+
+                            <div>
+                                <h3 className="qualification__title">Information & Technology Department Head</h3>
+                                <span className="qualification__subtitle">Chez Razzak Service</span>
+                                <div className="qualification__calender">
+                                    <i className="uil uil-calendar-alt"></i> Jan 2014 - Dec 2014
+                                </div>
+                            </div>
+
+                        </div>
                     </div>
                 </div>
             </div>

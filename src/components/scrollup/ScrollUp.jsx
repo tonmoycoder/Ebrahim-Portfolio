@@ -11,7 +11,7 @@ const ScrollUp = () => {
             scrollUp.classList.remove("show__scroll");
         }
     });
-    
+
     return (
         <a href="#" className="scrollup">
             <i className="uil uil-arrow-up scrollup__icon"></i>
