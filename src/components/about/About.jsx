@@ -16,8 +16,8 @@ const About = () => {
         <div className="about__data">
           <Info></Info>
           <p className="about__description">
-            As a writer, journalist, freelancer, and entrepreneur, I have a diverse set of skills
-            and experiences that make me a unique and valuable professional. 
+            
+I am an eCommerce sourcing specialist with over four years of experience in private label product sourcing, negotiation, inspection, and shipping for platforms like Amazon, Walmart, and eBay. I've sourced over $2 million in products globally, including medicine and garments, while managing 350+ supplier relationships. Fluent in multiple languages, I lead sourcing operations for a USA-based agency, offering end-to-end eCommerce solutions.
           </p>
 
           <a download="" href={CV} className="button button--flex">

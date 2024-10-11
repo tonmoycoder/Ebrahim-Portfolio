@@ -44,10 +44,9 @@ const Data = () => {
             fill="#EBA352"></path>
         </svg>
       </h1>
-      <h3 className="home__subtitle">E-Commerce Coordinator</h3>
+      <h3 className="home__subtitle">Expert in eCommerce Sourcing</h3>
       <p className="home__description">
-        I am a versatile professional with experience in journalism, freelancing, entrepreneurship,
-        and writing. My work and subject matter skills are displayed on my website.
+      Zero to Expert in eCommerce Sourcing (Amazon, Walmart, eBay) | Secured $2M+ Globally | Pro in Communication, Negotiation, Inspection & Shipping | 350+ Active Suppliers | Language: Bangla, English, Hindi, Urdu, Chinese | A to Z Sourcing Solution for eCommerce.
       </p>
       <a href="#contact" className="button button--flex hover__button_s">
         Say Hello
